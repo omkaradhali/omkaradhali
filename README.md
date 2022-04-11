@@ -1,4 +1,4 @@
-👋 Hey, I'm Omkar,
+👋 Hey, I'm [Omkar](https://omkaradhali.dev/),
 
 I'm a software engineer working in New York with more than 7 years of experience. I'm a full stack engineer who enjoys working on both front-end and back-end.
 
@@ -16,7 +16,5 @@ I'm . . .
 
 🏃 trying my best to run a marathon soon.
 
-
-[My website](https://omkaradhali.dev/)
 
 
