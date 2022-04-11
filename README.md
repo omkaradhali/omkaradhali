@@ -19,6 +19,4 @@ I'm . . .
 
 [My website](https://omkaradhali.dev/)
 
-Projects
 
-[Robofriends](https://omkaradhali.github.io/robofriends/)
